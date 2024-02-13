@@ -8,7 +8,7 @@ pipeline {
             steps {
                 sh '''
                     chmod +x ./pipeline/build/maven.sh
-                   ./jenkins/build/maven.sh mvn -B -DskipTests clean package
+                   ./pipeline/build/maven.sh mvn -B -DskipTests clean package
                 '''
             }
             post {
@@ -22,7 +22,7 @@ pipeline {
             steps {
                 sh '''
                 chmod +x ./pipeline/test/maven.sh
-                ./jenkins/test/maven.sh mvn test
+                ./pipeline/test/maven.sh mvn test
                 '''
             }
             post {
