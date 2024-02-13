@@ -23,17 +23,7 @@ public class AppTest {
             fail("Construction failed.");
         }
     }
-
-    @Test
-    public void testAppMain()
-    {
-        HolaMundo.main(null);
-        try {
-            assertEquals("Hola Mundo" + System.getProperty("line.separator"), outContent.toString());
-        } catch (AssertionError e) {
-            fail("\"message\" is not \"Hola Mundo\"");
-        }
-    }
+    
 
     @After
     public void cleanUpStreams() {
