@@ -1,0 +1,12 @@
+2024-02-13 09:12:18.685 [main] DEBUG training.maven.quick.HolaMundo - debug
+2024-02-13 09:12:18.690 [main] INFO  training.maven.quick.HolaMundo - info
+2024-02-13 09:12:18.691 [main] WARN  training.maven.quick.HolaMundo - warning
+2024-02-13 09:15:11.586 [main] DEBUG training.maven.quick.HolaMundo - debug
+2024-02-13 09:15:11.591 [main] INFO  training.maven.quick.HolaMundo - info
+2024-02-13 09:15:11.591 [main] WARN  training.maven.quick.HolaMundo - warning
+2024-02-13 09:16:22.784 [main] DEBUG training.maven.quick.HolaMundo - debug
+2024-02-13 09:16:22.791 [main] INFO  training.maven.quick.HolaMundo - info
+2024-02-13 09:16:22.791 [main] WARN  training.maven.quick.HolaMundo - warning
+2024-02-13 09:17:03.936 [main] DEBUG training.maven.quick.HolaMundo - debug
+2024-02-13 09:17:03.941 [main] INFO  training.maven.quick.HolaMundo - info
+2024-02-13 09:17:03.941 [main] WARN  training.maven.quick.HolaMundo - warning
